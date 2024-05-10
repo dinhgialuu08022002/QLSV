@@ -2,6 +2,8 @@
 ## Công nghệ sử dụng: ngôn ngữ lập trình C# được viết trên Microsoft SQL Server 2022 và ngôn ngữ truy vấn SQL được viết trên Microsoft SQL Server 2022
 ### Để cài đặt dự án này, đảm bảo rằng trên máy tính có sẵn Microsoft SQL Server 2022, Microsoft Visual Studio 2022 (đã cài môi trường .NET phiên bản 6.0 trở lên). Tải xuống, giải nén file và sử dụng
 
+![image](https://github.com/dinhgialuu08022002/QLSV/assets/108252455/b3be6e62-f148-4e4c-9869-e4d1d1ca73c8)
+
 ![image](https://github.com/dinhgialuu08022002/QLSV/assets/108252455/bdd7b5eb-d673-4419-9979-1b0d22d4a10c)
 
 ![image](https://github.com/dinhgialuu08022002/QLSV/assets/108252455/7de2fd6e-b488-43a3-8351-b6f3e591865c)
